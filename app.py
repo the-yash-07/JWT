@@ -36,7 +36,7 @@ AES_IV = b'6oyZDr22E3ychjM%'
 USERAGENT = "Dalvik/2.1.0 (Linux; U; Android 13; CPH2095 Build/RKQ1.211119.001)"
 FF_NICKNAME_KEY = b"1e5898ccb8dfdd921f9bdea848768b64a201"
 
-VALID_API_KEYS = ["DG-API-BUY-100"]
+VALID_API_KEYS = ["@yashapis"]
 
 def verify_api_key(api_key: Optional[str]) -> bool:
     if not api_key:
